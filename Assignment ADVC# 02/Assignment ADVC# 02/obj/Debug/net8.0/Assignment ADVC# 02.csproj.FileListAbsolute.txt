@@ -1,0 +1,14 @@
+F:\Assignment ADVC# 02\Assignment ADVC# 02\bin\Debug\net8.0\Assignment ADVC# 02.exe
+F:\Assignment ADVC# 02\Assignment ADVC# 02\bin\Debug\net8.0\Assignment ADVC# 02.deps.json
+F:\Assignment ADVC# 02\Assignment ADVC# 02\bin\Debug\net8.0\Assignment ADVC# 02.runtimeconfig.json
+F:\Assignment ADVC# 02\Assignment ADVC# 02\bin\Debug\net8.0\Assignment ADVC# 02.dll
+F:\Assignment ADVC# 02\Assignment ADVC# 02\bin\Debug\net8.0\Assignment ADVC# 02.pdb
+F:\Assignment ADVC# 02\Assignment ADVC# 02\obj\Debug\net8.0\Assignment ADVC# 02.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assignment ADVC# 02\Assignment ADVC# 02\obj\Debug\net8.0\Assignment ADVC# 02.AssemblyInfoInputs.cache
+F:\Assignment ADVC# 02\Assignment ADVC# 02\obj\Debug\net8.0\Assignment ADVC# 02.AssemblyInfo.cs
+F:\Assignment ADVC# 02\Assignment ADVC# 02\obj\Debug\net8.0\Assignment ADVC# 02.csproj.CoreCompileInputs.cache
+F:\Assignment ADVC# 02\Assignment ADVC# 02\obj\Debug\net8.0\Assignment ADVC# 02.dll
+F:\Assignment ADVC# 02\Assignment ADVC# 02\obj\Debug\net8.0\refint\Assignment ADVC# 02.dll
+F:\Assignment ADVC# 02\Assignment ADVC# 02\obj\Debug\net8.0\Assignment ADVC# 02.pdb
+F:\Assignment ADVC# 02\Assignment ADVC# 02\obj\Debug\net8.0\Assignment ADVC# 02.genruntimeconfig.cache
+F:\Assignment ADVC# 02\Assignment ADVC# 02\obj\Debug\net8.0\ref\Assignment ADVC# 02.dll
